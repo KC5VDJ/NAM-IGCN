@@ -1,5 +1,5 @@
-# NAM-IGN
-Cyber NOS 2 NAM-LTP, The Inter-Galactic Network (IGN)
+# NAM-IGCN
+Cyber NOS 2 NAM-LTP, The Inter-Galactic Computer Network (IGCN)
 
 Let's get real here, how many CDC systems did Lick buy?  It just has to be done.
 
